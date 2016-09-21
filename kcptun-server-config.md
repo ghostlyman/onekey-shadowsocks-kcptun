@@ -18,3 +18,7 @@
 ```bash
 supervisorctl {restart|start|stop} kcptun
 ```
+##Log path:  
+```bash
+/var/log/kcptun.log 
+```
