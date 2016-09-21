@@ -14,7 +14,10 @@
 ##manage shadowsocks:
 ```bash
 /etc/init.d/shadowsocks {start|stop|restart|status}
+```
+
 OR
+```bash
 ssserver -c /etc/shadowsocks.json -d {start|stop|restart|status}
 ```
 ##Log path:  
