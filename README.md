@@ -1,6 +1,9 @@
 # onekey-shadowsocks-kcptun
 An easy way to implement shadowsocks service and kcptun service for your devices. 
 ***********
+###Operating environment:
+Server: Linux CentOS 7  
+Client: Windows 7/8/10  Android 5.0+  
 
 ##Step 1: Install shadowsocks service to server.  
 ```bash
