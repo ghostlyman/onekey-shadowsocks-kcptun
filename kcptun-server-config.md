@@ -1,4 +1,4 @@
-##kcptun config-json in /usr/share/kcptun/server-config.json(sample):  
+##kcptun configuration file in /usr/share/kcptun/server-config.json(sample):  
 ```bash
 {
 	"listen": ":29900",
