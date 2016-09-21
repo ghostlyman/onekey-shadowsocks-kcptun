@@ -1,5 +1,6 @@
 # onekey-shadowsocks-kcptun
 An easy way to implement shadowsocks service and kcptun service for your devices. 
+***********
 
 ##Step 1: Install shadowsocks service to server.  
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh  
