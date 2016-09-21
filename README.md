@@ -3,10 +3,11 @@ An easy way to implement shadowsocks service and kcptun service for your devices
 ***********
 
 ##Step 1: Install shadowsocks service to server.  
+```Shell
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh  
 chmod +x shadowsocks.sh  
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log  
-
+```
 ##Step 2: Install kcptun service to server.  
 wget https://raw.githubusercontent.com/kuoruan/kcptun_installer/master/kcptun.sh  
 chmod +x ./kcptun.sh  
