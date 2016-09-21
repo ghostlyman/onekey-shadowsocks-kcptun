@@ -1,4 +1,4 @@
-##shadowsocks config-json in /etc/shadowsocks.json:
+##shadowsocks configuration file in /etc/shadowsocks.json:
 ```bash
 {
 "server":"your_VPS_IP",
