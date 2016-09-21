@@ -11,13 +11,15 @@ wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsoc
 chmod +x shadowsocks.sh  
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log  
 ```
+[More information](https://github.com/Joehaivo/onekey-shadowsocks-kcptun/blob/master/kcptun-server-config.md)  
+
 ##Step 2: Install kcptun service to server.  
 ```bash
 wget https://raw.githubusercontent.com/kuoruan/kcptun_installer/master/kcptun.sh  
 chmod +x ./kcptun.sh  
 ./kcptun.sh  
 ```
-
+[More information]()
 ##Step 3: Install chacha20 encryption for shadowsocks service.  
 ```bash
 yum install m2crypto gcc -y  
