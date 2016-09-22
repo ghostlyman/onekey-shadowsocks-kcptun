@@ -1,5 +1,7 @@
 # onekey-shadowsocks-kcptun
-An easy way to implement shadowsocks service and kcptun service for your VPS. 
+An easy way to implement shadowsocks service and kcptun service for your VPS.  
+一键部署shadowsock（影梭）和KCPtun（网络加速工具）到VPS服务器。
+[中文版使用说明](https://github.com/Joehaivo/onekey-shadowsocks-kcptun/blob/master/README-zhCN)
 ***********
 ###Operating environment:
 Server: Linux CentOS 7  
