@@ -38,3 +38,4 @@ ldconfig
 ```
 
 
+脚本来源：[teddysun](https://github.com/teddysun)  [kuoruan](https://github.com/kuoruan)
