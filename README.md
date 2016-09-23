@@ -1,6 +1,6 @@
 # onekey-shadowsocks-kcptun 
-一键部署shadowsock（影梭）和KCPtun（网络加速工具）到你的VPS服务器。
-[English version](https://github.com/Joehaivo/onekey-shadowsocks-kcptun/edit/master/README-en.md)
+一键部署shadowsock（影梭）和KCPtun（网络加速工具）到你的VPS服务器.  
+###[English version](https://github.com/Joehaivo/onekey-shadowsocks-kcptun/edit/master/README-en.md)
 ***********
 ###运行环境:
 服务端: Linux CentOS 7  
